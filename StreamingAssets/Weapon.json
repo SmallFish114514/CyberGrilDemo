@@ -1,0 +1,21 @@
+[{
+		"ID": 1,
+		"Name": "Pistol",
+		"NumberOfAmmunition": 80,
+		"CD": 1.3,
+		"Description": "Normal pistols",
+		"Damage": 15,
+		"MagazineCapacity": 8,
+		"MaxMagazineCapcity":8
+	},
+	{
+		"ID": 2,
+		"Name": "Shotgun",
+		"NumberOfAmmunition": 50,
+		"CD": 1.5,
+		"Description": "ShotGun",
+		"Damage": 20,
+		"MagazineCapacity": 5,
+		"MaxMagazineCapcity":5
+	}
+]
